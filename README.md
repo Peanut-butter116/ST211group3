@@ -37,3 +37,11 @@ our work log can be seen: [google doc](https://docs.google.com/document/d/1GgF5P
    - Interpretation & Conclusions for a lay audience (1000 words)
 
 
+## Final Work Allocation
+| Group Members | Exploratory Analysis | Model Creation | Report Writing |
+|----------|----------|----------| ----------|
+| Scarlett | analysis of 8 vairables | X | 1. Results (500words) 2. Intrepretation & Conclusions (750words) |
+| Judy | missing value analysis | X | 1. Exploratory Anlysis (500words) 2. Intrepretation & Conclusions (250words) |
+| Cherrie | analysis of 12 variables | model development and outlier analysis | From Initial to Final Model (500words) |
+| Jaden | analysis of 2 variables | initial model creation | Comments about the data/analysis (500words) |
+
